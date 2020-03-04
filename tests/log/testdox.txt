@@ -1,0 +1,24 @@
+Listing Basic
+ [x] Data test
+ [x] Id test
+ [x] Title test
+ [x] Status test basic
+ [x] Object test
+ [x] Id get method test
+ [x] Title get method test
+ [x] Website get method test
+ [x] Array methods test
+
+Listing Featured
+ [x] Status test featured
+ [x] Coc test
+
+Listing Image
+ [x] No image
+ [x] Full path image
+ [x] Build path image
+
+Listing Premium
+ [x] Status test premium
+ [x] Description test
+
